@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "htssop24")(type "KiCad")(uri "${KIPRJMOD}/htssop24.kicad_sym")(options "")(descr ""))
+  (lib (name "adapterlib")(type "KiCad")(uri "${KIPRJMOD}/adapterlib.kicad_sym")(options "")(descr ""))
+)
