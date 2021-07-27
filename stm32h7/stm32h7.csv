@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+"4u7","C1","Capacitor_SMD:C_0603_1608Metric","C19666"
+"1u","C12","Capacitor_SMD:C_0603_1608Metric","C15849"
+"22-26p","C2,C4","Capacitor_SMD:C_0402_1005Metric","C388039"
+"100n","C3,C5,C6,C7,C9,C11,C13,C14,C15,C16,C17,C18","Capacitor_SMD:C_0603_1608Metric","C14663"
+"2u2","C8,C10","Capacitor_SMD:C_0603_1608Metric","C23630"
+"Conn_02x18_Counter_Clockwise","J1,J2,J3,J4","Connector_PinHeader_2.00mm:PinHeader_2x18_P2.00mm_Vertical",""
+"Conn_01x05","J5","Connector_PinHeader_2.00mm:PinHeader_1x05_P2.00mm_Vertical",""
+"750R","R1","Resistor_SMD:R_0603_1608Metric","C23241"
+"10k","R2,R3","Resistor_SMD:R_0603_1608Metric","C25804"
+"SW_SPDT","SW1","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
+"STM32H743ZITx","U1","Package_QFP:LQFP-144_20x20mm_P0.5mm",""
+"ABM3-8.000MHZ","Y1","Crystal:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering",""
